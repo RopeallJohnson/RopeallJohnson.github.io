@@ -11,7 +11,7 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	background-color:0008FF;
+	background-color:#0008FF;
 	margin: 0;
 	display: table;
 
@@ -26,8 +26,6 @@ body {
 		color: #0008FF;
 		
 	}
-}
-
 a:hover {
 	font-weight: bold;
 	background-color: #000
