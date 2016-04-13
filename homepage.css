@@ -1,0 +1,34 @@
+body, html{
+	height:100%;
+	width: 100%;
+}
+
+body {
+
+	font-family: Arial, sans-serif;
+	background-image: url(https://pixabay.com/en/chicago-fountain-cityscape-skyline-720668/);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color:0008FF;
+	margin: 0;
+	display: table;
+
+}
+
+.container {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	a:active, a:hover, a:visited, a:link {
+		text-decoration:none;
+		color: #0008FF;
+		
+	}
+}
+
+a:hover {
+	font-weight: bold;
+	background-color: #000
+}
